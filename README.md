@@ -1,3 +1,10 @@
+# Try It
+
+Prerequirment: Install npm and node.js
+
+1. `docker compose -f ./src/main/docker/keycloak.yml up -d`
+2. `./mvnw`
+
 # keycloak
 
 This application was generated using JHipster 7.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.0.1](https://www.jhipster.tech/documentation-archive/v7.0.1).
